@@ -72,7 +72,8 @@ Files are saved to ComfyUI's configured output directory using the pattern:
 **File:** `apoloniartiffico-node.py`  
 **Category:** image
 
-Identical to **ApoloniArtiff**, with the addition of **ICO format** support. Useful for generating favicons or Windows icon files directly from a generation workflow.
+Identical to **ApoloniArtiff**, with the addition of **ICO format** support.
+Useful for generating favicons or Windows icon files directly from a generation workflow.
 ![Preview](screenshots/apoloniartiffico.png)
 ### Inputs
 
