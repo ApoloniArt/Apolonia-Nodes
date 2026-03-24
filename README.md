@@ -212,6 +212,5 @@ See repository for licence details.
 
 ---
 
-## Author
-
-Made by [ApoloniArt](https://github.com/ApoloniArt).
+---
+#### If any of my little apps, tools, nodes or scripts have helped save you time or brought you joy, feel free to shower me with copious amounts of gifts 🤭 here: [PayPal Donation](https://www.paypal.com/donate/?hosted_button_id=MG5S4EPK6EUSL) or hit the button at the top☝️ Any support at all is hugely appreciated, even a star or nice comment🙏
