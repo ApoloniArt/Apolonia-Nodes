@@ -105,7 +105,7 @@ All formats from ApoloniArtiff, plus:
 **Category:** image
 
 A tile slicer node. Takes an input image, divides it into a numbered grid of tiles, and saves them. You can select which tiles to output and apply edge effects (blur, fade, vignette, etc.) to the cut edges. Ideal for workflows that need to process or inspect large images in chunks.
-
+![Preview](screenshots/apoloniscope.png)
 ### Inputs
 
 | Input | Type | Default | Description |
