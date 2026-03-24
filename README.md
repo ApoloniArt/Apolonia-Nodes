@@ -4,7 +4,7 @@
 A collection of custom [ComfyUI](https://github.com/comfyanonymous/ComfyUI) nodes focused on flexible image export — supporting more file formats and giving you finer control over output, metadata, and image tiling.
 
 ---
-
+![Preview](screenshots/nodes.png)
 ## Nodes
 
 | Node | File | Purpose |
