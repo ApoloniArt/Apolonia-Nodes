@@ -182,6 +182,7 @@ This is stored in PNG text chunks, or in the EXIF `UserComment` field for TIFF/W
 3. Check the `_preview` output to see tile numbering.
 4. Re-run with a specific `tile_selection` (e.g., `"2,5,8"`) to extract only the tiles you need.
 5. Apply an `edge_effect` (e.g., `Blur` with `edge_feather = 20`) to soften edges for inpainting or compositing.
+
 ![Preview](screenshots/Apoloniscope1.jpg)![Preview](screenshots/Apoloniscope2.jpg)
 ---
 
