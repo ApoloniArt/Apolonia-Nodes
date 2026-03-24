@@ -15,11 +15,6 @@ A collection of custom [ComfyUI](https://github.com/comfyanonymous/ComfyUI) node
 
 ---
 
-## Installation
-
-**Via ComfyUI Manager** (recommended):
-Search for `Apolonia Nodes` in the Custom Nodes section.
-
 **Manual:**
 ```bash
 cd ComfyUI/custom_nodes
