@@ -73,7 +73,7 @@ Files are saved to ComfyUI's configured output directory using the pattern:
 **Category:** image
 
 Identical to **ApoloniArtiff**, with the addition of **ICO format** support. Useful for generating favicons or Windows icon files directly from a generation workflow.
-
+![Preview](screenshots/apoloniartiffico.png)
 ### Inputs
 
 | Input | Type | Default | Description |
