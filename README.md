@@ -29,7 +29,7 @@ Unzip and place all 3 node .py files into your Custom Nodes folder, each as a si
 
 **File:** `apoloniartiff_node.py`  
 **Category:** image
-
+![Preview](screenshots/apoloniartiff.png)
 A drop-in replacement for the standard Save Image node with added format support and metadata handling.
 
 ### Inputs
