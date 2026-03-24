@@ -15,13 +15,13 @@ A collection of custom [ComfyUI](https://github.com/comfyanonymous/ComfyUI) node
 
 ---
 
-**Manual:**
+**How to use, simply download the zip or Git Clone:**
 ```bash
 cd ComfyUI/custom_nodes
 git clone https://github.com/ApoloniArt/Apolonia-Nodes
 ```
 
-Restart ComfyUI. All three nodes will appear in the `image` category.
+Unzip and place all 3 node .py files into your Custom Nodes folder, each as a single file.
 
 ---
 
