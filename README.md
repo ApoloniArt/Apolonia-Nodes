@@ -1,7 +1,7 @@
 [![PayPal Donate](screenshots/paypal.png)](https://www.paypal.com/donate/?hosted_button_id=MG5S4EPK6EUSL)
 # Apolonia Nodes
 
-A collection of custom [ComfyUI](https://github.com/comfyanonymous/ComfyUI) nodes focused on flexible image export — supporting more file formats and giving you finer control over output, metadata, and image tiling.
+A collection of simple custom [ComfyUI](https://github.com/comfyanonymous/ComfyUI) nodes focused on flexible image export — supporting more file formats and giving you finer control over output, metadata, and image tiling.
 
 ---
 ![Preview](screenshots/nodes.png)
