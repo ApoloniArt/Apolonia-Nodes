@@ -11,7 +11,7 @@ A collection of custom [ComfyUI](https://github.com/comfyanonymous/ComfyUI) node
 |---|---|---|
 | [ApoloniArtiff](https://github.com/ApoloniArt/Apolonia-Nodes/blob/main/apoloniartiff_node.py) | `apoloniartiff_node.py` | Save images in PNG, JPEG, WebP, or TIFF with metadata control |
 | [ApoloniArtiffico](https://github.com/ApoloniArt/Apolonia-Nodes/blob/main/apoloniartiffico-node.py) | `apoloniartiffico-node.py` | Same as above, plus ICO format support |
-| [Apoloniscope](#apoloniscope) | `apoloniscope_node.py` | Tile slicer — split images into a grid, apply edge effects, and save selected tiles |
+| [Apoloniscope](https://github.com/ApoloniArt/Apolonia-Nodes/blob/main/apoloniscope_node.py) | `apoloniscope_node.py` | Tile slicer — split images into a grid, apply edge effects, and save selected tiles |
 
 ---
 
