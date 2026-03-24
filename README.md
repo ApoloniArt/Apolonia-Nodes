@@ -22,7 +22,8 @@ git clone https://github.com/ApoloniArt/Apolonia-Nodes
 ```
 
 Unzip and place all 3 node .py files into your Custom Nodes folder, each as a single file.
-
+Search for...
+![Preview](screenshots/search.png)
 ---
 
 ## ApoloniArtiff
