@@ -209,12 +209,6 @@ No additional `pip install` required.
 
 ---
 
-## License
-
-See repository for licence details.
-
----
-
 ### *More simple tools, built with love by Apolonia 💜 quietly doing the boring work in the background so you can focus on what only you can do.*
 
 ---
